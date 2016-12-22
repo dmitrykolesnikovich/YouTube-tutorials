@@ -1,3 +1,6 @@
+въебать шейдеры
+https://www.youtube.com/watch?v=zr7k7kaokSk
+
 -- How to use with Eclipse --
 
 (1) Create a new Java project.
